@@ -39,5 +39,3 @@ def caesar_cypher(string, shift, direction)
 
   caeser_string
 end
-
-p help
